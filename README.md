@@ -28,5 +28,5 @@ Find port (NodePort) for webservice:
 kubectl describe services hello-node
 ```
 
-Use browser or other http client to hit url (http://<ip>:<port>) to see "Hello World"
+Use browser or other http client to hit url (http://ip:port) to see "Hello World"
 
